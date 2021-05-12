@@ -1,3 +1,3 @@
 # music-app-prototype
 
-a cross-platform music library management app, designed with the idea of "looking good"
+a linux & windows music library management app, designed with the idea of "looking good"
